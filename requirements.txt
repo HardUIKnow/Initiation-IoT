@@ -1,0 +1,11 @@
+# Niveau 1 — Dépendances Python
+# Installation : pip install -r requirements.txt
+
+# Communication série avec l'ESP32
+pyserial>=3.5
+
+# Dashboard web
+streamlit>=1.32.0
+
+# Manipulation des données
+pandas>=2.0.0
